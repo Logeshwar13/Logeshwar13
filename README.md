@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Logeshwar13
+- 👋 Hi, I’m @Logeshwar
 - 👀 I’m interested in Developing AI Tools
 - 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on Tech Internships
